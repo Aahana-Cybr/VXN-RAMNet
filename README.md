@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AjaySoni-Dev/VXN-RAMNet?style=social">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/AjaySoni-Dev/VXN-RAMNet?style=social">
+</p>
+
+<p align="center">
   <img alt="Status" src="https://img.shields.io/badge/status-research%20prototype-blue">
   <img alt="Python" src="https://img.shields.io/badge/python-3.10%2B-3776AB">
   <img alt="Core" src="https://img.shields.io/badge/core-visual%20route%20memory-purple">
