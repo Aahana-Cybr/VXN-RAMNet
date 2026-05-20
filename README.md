@@ -1,4 +1,4 @@
-<h1 align="center">VXN-RAMNet</h1>
+<h1 align="center">VXN-RAMNet</h1> 
 
 <p align="center">
   <strong>VisionX Routine Adaptive Memory Network</strong><br>
