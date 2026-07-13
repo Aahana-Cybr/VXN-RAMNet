@@ -1,6 +1,6 @@
 # Future Work
 
-This document lists the actual future work required to make VXN-RAMNet more reliable, testable, and closer to practical use.
+This document lists the actual future work required to make VXN-RAMNet more reliable, testable, and closer to practical use. 
 
 The goal is not to overstate the project. The current repo is a notebook-based research prototype. Future work should focus on measurable improvements, better evaluation, cleaner code, and realistic deployment steps.
 
